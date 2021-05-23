@@ -25,7 +25,7 @@
 
 ##
 <h3>Linguagens e Ferramentas </h3>
-<code><a href="https://github.com/dotnet/core" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
+<code><a href="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
 <code><a href="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 
