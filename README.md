@@ -28,7 +28,7 @@
 <code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
 <code><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img height="40" width="120px" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-<code><a href="https://code.visualstudio.com/" target="_blank"><img height="50" src=https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></a></code>
+<code><a href="https://code.visualstudio.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></a></code>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleberg&hide=TeX&layout=compact)
 
