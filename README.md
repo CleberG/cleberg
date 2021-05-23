@@ -5,6 +5,8 @@
 - 🌱 Estou estudando docker e containers e reforçando meus conhecimentos nas linguagens que já atuo; 
 - 📫 Moro em Blumenau-SC;
 
+##
+
 <div align="start">
 </div>
 <p align="start">
@@ -21,7 +23,7 @@
   <img align="start" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
  </a> 
 
----
+##
 
 <code><a href="https://github.com/dotnet/core" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
