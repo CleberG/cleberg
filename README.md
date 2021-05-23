@@ -5,10 +5,7 @@
 - 🌱 Estou estudando docker e containers e reforçando meus conhecimentos nas linguagens que já atuo; 
 - 📫 Moro em Blumenau-SC;
 
-##
----
-<div align="center">
-  <h3 align="center">Conexões</h3> 
+<div align="start">
 </div>
 <p align="center">
  <a href="https://www.linkedin.com/in/cleber-gomes-motta-1b9762178/" target="blank">
