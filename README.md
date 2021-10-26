@@ -2,7 +2,7 @@
 
 - 👨🏽‍💻 Atualmente trabalho na  [AmbevTech](https://ambevtech.com.br/);
 - 👯 Atualmente estou desenvolvendo com ReacJs, mas também atuo com C# 🤝;
-- 🌱 Estou estudando docker e containers e reforçando meus conhecimentos nas linguagens que já atuo; 
+- 🌱 Estou estudando typescript, next e reforçando meus conhecimentos nas linguagens que já atuo; 
 - 📫 Moro em Blumenau-SC;
 
 ##
