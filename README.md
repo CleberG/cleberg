@@ -1,6 +1,6 @@
 ## Fala galera me chamo Cleber
 
-- 👨🏽‍💻 Atualmente trabalho na  [AmbevTech](https://ambevtech.com.br/);
+- 👨🏽‍💻 
 - 👯 Atualmente estou desenvolvendo com ReacJs, mas também atuo com C# 🤝;
 - 🌱 Estou estudando typescript, next e reforçando meus conhecimentos nas linguagens que já atuo; 
 - 📫 Moro em Blumenau-SC;
