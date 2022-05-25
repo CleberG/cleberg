@@ -32,5 +32,6 @@
 <code><a href="https://git-scm.com/"><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleberg&hide=TeX&layout=compact)
-
-![Snake animation](https://github.com/CleberG/CleberG/blob/output/github-contribution-grid-snake.svg)
+<div>
+  ![Snake animation](https://github.com/CleberG/CleberG/blob/output/github-contribution-grid-snake.svg)
+</div>
