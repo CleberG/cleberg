@@ -34,4 +34,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleberg&hide=TeX&layout=compact)
 
 ![Snake animation](https://github.com/cleberG/cleberg/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/CleberG/cleberG/blob/output/github-contribution-grid-snake.svg)
 
