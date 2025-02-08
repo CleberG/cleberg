@@ -1,8 +1,8 @@
 ## Fala galera me chamo Cleber
 
 - 👨🏽‍💻 
-- 👯 Atualmente estou desenvolvendo com ReacJs, mas também atuo com C# 🤝;
-- 🌱 Estou estudando typescript, next e reforçando meus conhecimentos nas linguagens que já atuo; 
+- 👯 Atualmente estou desenvolvendo com C# e VueJs nas versão 2 com js e na versão 3 com typescript
+- 🌱 Consolidando meus conhecimento em C# e iniciando no devops 
 - 📫 Moro em Blumenau-SC;
 
 ##
